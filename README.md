@@ -4,5 +4,5 @@ This repository contains the R code supporting the paper by Yu Luo Daniel J Grah
 
 The folder contains the R code for MCMC function to estimate the average treatment effect (ATE) via the Bayesian exponentially tilted empirical likelihood using partially linear regression
 
--	<strong>BETEL_PS_cov_func</strong>: function to generate the posterior sample of the ATE via the Bayesian exponentially tilted empirical likelihood.
+-	<strong>BETEL_PLR_func</strong>: function to generate the posterior sample of the ATE via the Bayesian exponentially tilted empirical likelihood.
 
